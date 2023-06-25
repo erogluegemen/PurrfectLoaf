@@ -1,0 +1,14 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore log files
+logs/
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore any other generated files or directories
+images/
